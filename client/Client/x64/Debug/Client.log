@@ -1,0 +1,3 @@
+﻿  Client.cpp
+D:\c++project\hpsocket\Client\Client.cpp(15,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Client.vcxproj -> D:\c++project\hpsocket\x64\Debug\Client.exe
